@@ -1,0 +1,8 @@
+Z:\source\repos\Uebungen_Schleifen\Schleifen\Schleifen\obj\Debug\Schleifen.csprojResolveAssemblyReference.cache
+Z:\source\repos\Uebungen_Schleifen\Schleifen\Schleifen\bin\Debug\Schleifen.dll
+Z:\source\repos\Uebungen_Schleifen\Schleifen\Schleifen\bin\Debug\Schleifen.pdb
+Z:\source\repos\Uebungen_Schleifen\Schleifen\Schleifen\bin\Debug\nunit.framework.dll
+Z:\source\repos\Uebungen_Schleifen\Schleifen\Schleifen\bin\Debug\nunit.framework.pdb
+Z:\source\repos\Uebungen_Schleifen\Schleifen\Schleifen\bin\Debug\nunit.framework.xml
+Z:\source\repos\Uebungen_Schleifen\Schleifen\Schleifen\obj\Debug\Schleifen.dll
+Z:\source\repos\Uebungen_Schleifen\Schleifen\Schleifen\obj\Debug\Schleifen.pdb

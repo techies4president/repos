@@ -1,0 +1,5 @@
+Z:\source\repos\froehlichezahlen\froehlichezahlen\bin\Debug\froehlichezahlen.dll
+Z:\source\repos\froehlichezahlen\froehlichezahlen\bin\Debug\froehlichezahlen.pdb
+Z:\source\repos\froehlichezahlen\froehlichezahlen\obj\Debug\froehlichezahlen.csprojResolveAssemblyReference.cache
+Z:\source\repos\froehlichezahlen\froehlichezahlen\obj\Debug\froehlichezahlen.dll
+Z:\source\repos\froehlichezahlen\froehlichezahlen\obj\Debug\froehlichezahlen.pdb

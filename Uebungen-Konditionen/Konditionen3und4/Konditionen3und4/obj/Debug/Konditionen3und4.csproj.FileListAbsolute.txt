@@ -1,0 +1,5 @@
+Z:\source\repos\Uebungen-Konditionen\Konditionen3und4\Konditionen3und4\bin\Debug\Konditionen3und4.dll
+Z:\source\repos\Uebungen-Konditionen\Konditionen3und4\Konditionen3und4\bin\Debug\Konditionen3und4.pdb
+Z:\source\repos\Uebungen-Konditionen\Konditionen3und4\Konditionen3und4\obj\Debug\Konditionen3und4.csprojResolveAssemblyReference.cache
+Z:\source\repos\Uebungen-Konditionen\Konditionen3und4\Konditionen3und4\obj\Debug\Konditionen3und4.dll
+Z:\source\repos\Uebungen-Konditionen\Konditionen3und4\Konditionen3und4\obj\Debug\Konditionen3und4.pdb

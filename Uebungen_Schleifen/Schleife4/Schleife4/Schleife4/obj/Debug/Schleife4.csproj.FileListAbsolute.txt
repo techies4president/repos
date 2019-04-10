@@ -1,0 +1,6 @@
+Z:\source\repos\Uebungen_Schleifen\Schleife4\Schleife4\Schleife4\bin\Debug\Schleife4.exe.config
+Z:\source\repos\Uebungen_Schleifen\Schleife4\Schleife4\Schleife4\obj\Debug\Schleife4.csprojResolveAssemblyReference.cache
+Z:\source\repos\Uebungen_Schleifen\Schleife4\Schleife4\Schleife4\bin\Debug\Schleife4.exe
+Z:\source\repos\Uebungen_Schleifen\Schleife4\Schleife4\Schleife4\bin\Debug\Schleife4.pdb
+Z:\source\repos\Uebungen_Schleifen\Schleife4\Schleife4\Schleife4\obj\Debug\Schleife4.exe
+Z:\source\repos\Uebungen_Schleifen\Schleife4\Schleife4\Schleife4\obj\Debug\Schleife4.pdb

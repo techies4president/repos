@@ -1,0 +1,6 @@
+Z:\source\repos\Uebungen-Konditionen\Konditionen\Konditionen\bin\Debug\Konditionen.exe.config
+Z:\source\repos\Uebungen-Konditionen\Konditionen\Konditionen\bin\Debug\Konditionen.exe
+Z:\source\repos\Uebungen-Konditionen\Konditionen\Konditionen\bin\Debug\Konditionen.pdb
+Z:\source\repos\Uebungen-Konditionen\Konditionen\Konditionen\obj\Debug\Konditionen_Renner.csprojResolveAssemblyReference.cache
+Z:\source\repos\Uebungen-Konditionen\Konditionen\Konditionen\obj\Debug\Konditionen.exe
+Z:\source\repos\Uebungen-Konditionen\Konditionen\Konditionen\obj\Debug\Konditionen.pdb

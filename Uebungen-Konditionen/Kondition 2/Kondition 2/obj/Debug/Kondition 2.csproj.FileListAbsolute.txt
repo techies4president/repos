@@ -1,0 +1,6 @@
+Z:\source\repos\Uebungen-Konditionen\Kondition 2\Kondition 2\bin\Debug\Kondition 2.exe.config
+Z:\source\repos\Uebungen-Konditionen\Kondition 2\Kondition 2\bin\Debug\Kondition 2.exe
+Z:\source\repos\Uebungen-Konditionen\Kondition 2\Kondition 2\bin\Debug\Kondition 2.pdb
+Z:\source\repos\Uebungen-Konditionen\Kondition 2\Kondition 2\obj\Debug\Kondition 2.csprojResolveAssemblyReference.cache
+Z:\source\repos\Uebungen-Konditionen\Kondition 2\Kondition 2\obj\Debug\Kondition 2.exe
+Z:\source\repos\Uebungen-Konditionen\Kondition 2\Kondition 2\obj\Debug\Kondition 2.pdb
