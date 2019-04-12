@@ -1,17 +1,11 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Dynamic;
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ArraysListen
 {
-    public class Array1
+    internal class Array1
     {
-        internal void Verarbeitung()
+        internal static void Verarbeitung()
         {
             var ende = false;
             var liste = new List<string>();
@@ -21,6 +15,7 @@ namespace ArraysListen
                 FuelleListe(liste, eingabe);
                 ende = PruefeListe(liste);
             }
+
             VerarbeiteListe(liste);
         }
 
@@ -40,17 +35,21 @@ namespace ArraysListen
         {
             return liste.Contains("");
         }
-
         internal static string VerarbeiteListe(List<string> liste)
         {
-            int likes = liste.Count - 1;
-            if (likes == 0)
+            var likes = liste.Count - 1;
+            switch (likes)
             {
-                return "";
-            }
-            else if(likes == 1)
-            {
-                return +liste.inde+" mag deinen Post
+                case 1:
+                    return liste[0] + " mag deinen Post";
+                case 2:
+                    return liste[0] + " und " + liste[1] + " mögen deinen Post";
+                default:
+                {
+                    if (likes >= 3)
+                        return liste[0] + ", " + liste[1] + " und " + (likes - 2) + " weitere mögen deinen Post";
+                    return "";
+                }
             }
         }
     }

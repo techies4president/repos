@@ -1,0 +1,5 @@
+Z:\source\repos\Uebungen_ArraysListen\ArraysListen\ArraysListen\bin\Debug\ArraysListen.dll
+Z:\source\repos\Uebungen_ArraysListen\ArraysListen\ArraysListen\bin\Debug\ArraysListen.pdb
+Z:\source\repos\Uebungen_ArraysListen\ArraysListen\ArraysListen\obj\Debug\ArraysListen.csprojResolveAssemblyReference.cache
+Z:\source\repos\Uebungen_ArraysListen\ArraysListen\ArraysListen\obj\Debug\ArraysListen.dll
+Z:\source\repos\Uebungen_ArraysListen\ArraysListen\ArraysListen\obj\Debug\ArraysListen.pdb
